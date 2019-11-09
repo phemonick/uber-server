@@ -5,7 +5,7 @@ Server for my uber clone, using GraphQl, Typescript, NodeJs
 ## Resolvers
 
 ### public resolvers:
-- [ ] Login / signup with Facebook
+- [x] Login / signup with Facebook
 - [ ] Login with Email
 - [ ] Starts Phone Number Verification
 - [ ] Complete phone number verification
