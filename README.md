@@ -6,13 +6,15 @@ Server for my uber clone, using GraphQl, Typescript, NodeJs
 
 ### public resolvers:
 - [x] Login / signup with Facebook
-- [ ] Login with Email
+- [x] Login with Email
 - [ ] Starts Phone Number Verification
 - [ ] Complete phone number verification
 - [ ] Signup with Email
 ___
 
 ### private resolvers:
+- [ ] Generate JWT
+- [ ] Verify JWT
 - [ ] Verify Email
 - [ ] Get my Profile
 - [ ] Update my profile
