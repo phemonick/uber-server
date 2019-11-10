@@ -19,9 +19,9 @@ class Verification extends BaseEntity {
     key: string
 
     @Column({ type: "boolean", default: false })
-    used: boolean
+    verified: boolean
 
-    @ManyToMany(type => User, user => user.verifications)
+    @ManyToMany(type => User, user => user.verifications, { nullable: true })
     user: User
 
     @CreateDateColumn() createdAt: string
