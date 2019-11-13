@@ -9,14 +9,14 @@ Server for my uber clone, using GraphQl, Typescript, NodeJs
 - [x] Login with Email
 - [x] Starts Phone Number Verification
 - [x] Complete phone number verification
-- [ ] Signup with Email
+- [x] Signup with Email
 ___
 
 ### private resolvers:
-- [ ] Generate JWT
+- [x] Generate JWT
 - [ ] Verify JWT
 - [ ] Verify Email
-- [ ] Get my Profile
+- [x] Get my Profile
 - [ ] Update my profile
 - [ ] Toggle Driving Mode
 - [ ] Add place
