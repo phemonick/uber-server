@@ -14,8 +14,9 @@ ___
 
 ### private resolvers:
 - [x] Generate JWT
-- [ ] Verify JWT
-- [ ] Verify Email
+- [x] Verify JWT
+- [x] Request email verification
+- [x] Complete Verify Email
 - [x] Get my Profile
 - [ ] Update my profile
 - [ ] Toggle Driving Mode
