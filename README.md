@@ -18,11 +18,12 @@ ___
 - [x] Request email verification
 - [x] Complete Verify Email
 - [x] Get my Profile
-- [ ] Update my profile
-- [ ] Toggle Driving Mode
-- [ ] Add place
-- [ ] Edit Place
-- [ ] Delete Place
+- [x] Update my profile
+- [x] Toggle Driving Mode
+- [x] Add place
+- [x] Edit Place
+- [x] Delete Place
+- [ ] Get My place
 - [ ] Report location / orientation
 - [ ] See nearby Drivers
 - [ ] Subscribe to Nearby Drivers

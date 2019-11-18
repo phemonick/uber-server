@@ -18,7 +18,7 @@ class Ride extends BaseEntity {
     pickUpLng: number;
 
     @Column({ type: "text" })
-    dropOffAddress: String
+    dropOffAddress: string
 
     @Column({ type: "double precision", default: 0 })
     dropOffLat: number;
