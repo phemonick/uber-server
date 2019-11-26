@@ -23,10 +23,10 @@ ___
 - [x] Add place
 - [x] Edit Place
 - [x] Delete Place
-- [ ] Get My place
-- [ ] Report location / orientation
-- [ ] See nearby Drivers
-- [ ] Subscribe to Nearby Drivers
+- [x] Get My place
+- [x] Report location / orientation
+- [x] See nearby Drivers
+- [x] Subscribe to Nearby Drivers
 - [ ] Request a Ride
 - [ ] Get Nearby Rides
 - [ ] Subscribe to nearby ride requests
