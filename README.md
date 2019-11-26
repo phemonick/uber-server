@@ -27,7 +27,7 @@ ___
 - [x] Report location / orientation
 - [x] See nearby Drivers
 - [x] Subscribe to Nearby Drivers
-- [ ] Request a Ride
+- [x] Request a Ride
 - [ ] Get Nearby Rides
 - [ ] Subscribe to nearby ride requests
 - [ ] Subscribe to Ride Status( accepted, cancelled etc.)
