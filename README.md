@@ -28,7 +28,7 @@ ___
 - [x] See nearby Drivers
 - [x] Subscribe to Nearby Drivers
 - [x] Request a Ride
-- [ ] Get Nearby Rides
+- [x] Get Nearby Rides
 - [ ] Subscribe to nearby ride requests
 - [ ] Subscribe to Ride Status( accepted, cancelled etc.)
 - [ ] Get chat room messages
