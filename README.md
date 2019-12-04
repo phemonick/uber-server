@@ -30,8 +30,8 @@ ___
 - [x] Request a Ride
 - [x] Get Nearby Rides
 - [x] Update ride status
-- [ ] Get Ride
-- [ ] Subscribe to nearby ride requests
+- [x] Get Ride
+- [x] Subscribe to nearby ride requests
 - [ ] Subscribe to Ride Status( accepted, cancelled etc.)
 - [ ] Get chat room messages
 - [ ] Subscribe to chat eoom messages
